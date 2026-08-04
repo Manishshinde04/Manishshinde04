@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shindepatilmanish@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** ASTROINTEL Project
+- 🔭 **I’m currently working on:** FINTECH Project
 - 🌱 **I’m currently learning:** React.js
 - 👯 **I’m looking to collaborate on:** Nasa
 - 💬 **Ask me about:** Collaboration, Tech Support
